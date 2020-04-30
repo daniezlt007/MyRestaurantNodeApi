@@ -1,0 +1,3 @@
+D:\Projects Node\MyRestaurantNodeApi\obj\Debug\MyRestaurantNodeApi.njsprojAssemblyReference.cache
+D:\Projects Node\MyRestaurantNodeApi\obj\Debug\MyRestaurantNodeApi.njsproj.CoreCompileInputs.cache
+D:\Projects Node\MyRestaurantNodeApi\bin\Microsoft.NodejsTools.WebRole.dll
